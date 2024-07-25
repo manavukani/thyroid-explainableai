@@ -11,13 +11,6 @@ This project is a highly accurate diagnosis tool for thyroid disease, utilizing 
 - **Data Collection**: Collaborated with healthcare professionals and collected data through Google Forms to enhance model accuracy and reliability.
 - **Interactive Web Interface**: Developed using HTML, CSS, JavaScript, and CanvasJS for dynamic, real-time simulations and an intuitive user experience.
 
-## Table of Contents
-
-- [Model Explanation](#model-explanation)
-- [Data Collection](#data-collection)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-
 ## Model Explanation
 
 The diagnosis tool employs the following steps:
@@ -36,10 +29,12 @@ Data was collected through Google Forms, with inputs from doctors and healthcare
 - **Healthcare Professionals**: For their valuable insights and data contributions.
 - **XGBoost and CanvasJS Communities**: For providing powerful tools and resources.
 
-## License
+## Results
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+![Thyroid](https://github.com/user-attachments/assets/04437419-8b47-459c-ae64-71788d3496a4)
+
+
 
 ---
 
-Feel free to customize this README further to better suit your project's specific details and requirements.
+This was done as a part of Minor Project by Manav Ukani and Jenis Gundaraniya
